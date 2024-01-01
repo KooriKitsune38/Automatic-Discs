@@ -1,0 +1,29 @@
+{
+    "pools": [
+        {
+            "rolls":1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "music_disc_5"                    
+                },
+                {
+                    "type": "item",
+                    "name": "music_disc_cat"                    
+                },
+                {
+                    "type": "item",
+                    "name": "music_disc_mellohi"                    
+                },
+                {
+                    "type": "item",
+                    "name": "music_disc_pigstep"                    
+                },
+                {
+                    "type": "item",
+                    "name": "music_disc_relic"                    
+                }
+            ]
+        }
+    ]
+}
