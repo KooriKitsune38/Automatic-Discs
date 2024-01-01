@@ -5,10 +5,6 @@
             "entries": [
                 {
                     "type": "item",
-                    "name": "music_disc_5"                    
-                },
-                {
-                    "type": "item",
                     "name": "music_disc_cat"                    
                 },
                 {
