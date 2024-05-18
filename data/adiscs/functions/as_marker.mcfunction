@@ -1,7 +1,7 @@
 #> adiscs:as_marker
 
 # If no jukebox, kill
-execute if entity @s[tag=ad.Jukeboxed] unless block ~ ~ ~ jukebox run kill @s
+execute if entity @s[tag=ad.Jukeboxed] unless block ~ ~ ~ jukebox run function adiscs:remove_jukebox
 
 # Add Jukebox
 execute if entity @s[tag=!ad.Jukeboxed] run function adiscs:add_jukebox
